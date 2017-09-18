@@ -3,6 +3,7 @@ img {
     
     border-radius: 100%;
     border:solid;
+    border-color: 
 }
 
 body {
@@ -33,12 +34,12 @@ body {
 
 header{
     font-style: italic;
-    background-image: url(/images/background_gradient.jpg);
+    background-image: url(http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/39323/Banff_1_uhiusb.png);
     background-size:cover;
     background-repeat: no-repeat;
-    padding-bottom: 30px;
-    padding-top: 30px;
-    color:cadetblue;
+    padding-bottom: 200px;
+    padding-top: 200px;
+    color:white;
     border-radius: 15px;
     
 }
@@ -50,5 +51,14 @@ h2 {
     font-family: Garamond;
     font-style: italic;
     
+}
+.work {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+h3 {
+    color:forestgreen
 }
     
