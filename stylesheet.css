@@ -1,0 +1,54 @@
+img {
+    width:70px;
+    
+    border-radius: 100%;
+    border:solid;
+}
+
+body {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 1em;
+}
+
+.competencies {
+    border-style: solid;
+    margin-left: auto;
+    margin-right:auto;
+}
+.competencies td {
+    padding: 20px;
+    border: solid;
+    background-color: white;
+    
+}
+#sponsers {
+    margin-left: auto;
+    margin-right:auto;
+
+}
+#sponsers td {
+   padding: 50px 
+}
+
+header{
+    font-style: italic;
+    background-image: url(/images/background_gradient.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    color:cadetblue;
+    border-radius: 15px;
+    
+}
+div {
+    margin-top: 75px;
+}
+h2 {
+    font-size: 2em;
+    font-family: Garamond;
+    font-style: italic;
+    
+}
+    
